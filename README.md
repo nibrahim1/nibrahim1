@@ -25,7 +25,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SharePoint](https://img.shields.io/badge/SharePoint-008080?style=for-the-badge&logo=sharepoint&logoColor=white)
 ![SPFX](https://img.shields.io/badge/SPFx-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
