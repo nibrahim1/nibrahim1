@@ -19,7 +19,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-FF9900?style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Data Verse](https://img.shields.io/badge/DataVerse-339933?style=for-the-badge&logo=dataverse&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
